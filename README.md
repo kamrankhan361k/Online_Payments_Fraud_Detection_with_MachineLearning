@@ -16,3 +16,5 @@ To identify online payment fraud with machine learning, we need to train a machi
 9 newbalanceDest: the new balance of recipient after the transaction
 10 isFraud: fraud transaction
 I hope you now know about the data I am using for the online payment fraud detection task. Now in the section below, I’ll explain how we can use machine learning to detect online payment fraud using Python.
+data set link
+https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download
